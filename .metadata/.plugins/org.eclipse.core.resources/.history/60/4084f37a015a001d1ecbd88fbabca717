@@ -1,0 +1,22 @@
+package test;
+
+class Data1 { int x; }
+
+public class WhatIsTheStatic {
+
+	
+	int a = 1;
+	
+	static int b = 1;
+	
+	public static void main(String[] args) {
+		rtn rt = new rtn();
+		System.out.println(rt.a);
+	}
+	
+	public int rtn(int a) {
+		a = 2;
+		return a;
+	}
+	
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="test.WhatIs"/>
+    <fullyQualifiedTypeName name="javax.management.relation.RelationTypeNotFoundException"/>
+    <fullyQualifiedTypeName name="test.WhatIsTheStatic"/>
+    <fullyQualifiedTypeName name="test.Data1"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+</qualifiedTypeNameHistroy>

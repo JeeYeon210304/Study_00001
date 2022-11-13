@@ -1,0 +1,28 @@
+package test;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class WhatIs {
+
+	public static void main(String[] args) {
+//		wrote();
+//		
+//		WhatIs whatIs = new WhatIs();
+//		whatIs.test1();
+		
+		Aaa aaa = new Aaa();
+	}
+	
+	static void wrote() {
+		List<String> arr0 = new ArrayList<String>();
+		List<String> arr1;
+	}
+	
+	void test1() {
+		int a;
+		
+		Aaa.main(null);
+	}
+}
+

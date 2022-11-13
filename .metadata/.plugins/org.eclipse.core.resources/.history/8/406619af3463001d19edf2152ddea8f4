@@ -1,0 +1,36 @@
+package test;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class WhatIs {
+
+	public static void main(String[] args) {
+//		wrote();
+//		
+//		WhatIs whatIs = new WhatIs();
+//		whatIs.test1();
+		
+		Aaa aaa = new Aaa();
+
+		aaa.a = 10;
+		aaa.b = 10;
+		System.out.println(aaa.a + "" + aaa.b);
+		
+	}
+	
+
+	
+	void test1() {
+		int a;
+		
+	}
+}
+
+class Wrote {
+	int a;
+}
+class Use {
+	int a;
+}
+

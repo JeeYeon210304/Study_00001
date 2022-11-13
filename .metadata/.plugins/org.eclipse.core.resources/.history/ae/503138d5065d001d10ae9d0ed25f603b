@@ -1,0 +1,19 @@
+package test;
+
+public class Aaa {
+
+	int a = 1;
+	static int b = 2;
+	
+	public static void main(String[] args) {
+		System.out.println(a);
+		System.out.println(b);
+	}
+	
+	public void inst () {
+		System.out.println(a);
+		System.out.println(b);
+	}
+	
+}
+

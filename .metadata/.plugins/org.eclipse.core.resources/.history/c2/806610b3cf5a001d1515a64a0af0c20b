@@ -1,0 +1,23 @@
+package test;
+
+public class WhatIsTheStatic {
+
+	public static void main(String[] args) {
+		System.out.println("오늘 숙면시간을 분으로 계산하면 "
+						   + Utils.hourToMinute(5)
+						   + "분 입니다.");
+		
+		Math.random();
+	}	
+}
+
+class Utils {
+	static final int dayTime = 24;
+	static final int minute = 60;
+	
+	public static int hourToMinute(int hour) {
+		int result = 0;
+		result = hour * minute;
+		return result;
+	} 	
+}

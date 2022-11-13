@@ -1,0 +1,35 @@
+package test;
+
+class Data1 { int x; }
+
+public class WhatIsTheStatic {
+
+	
+	int a = 1;
+	
+	static int b = 1;
+	
+	public static void main(String[] args) {
+		WhatIsTheStatic what = new WhatIsTheStatic();
+		what.rtn();
+		
+		testt(2);
+		Data1 d = new Data1();
+		System.out.println("d.x : " + d.x);
+	}
+	
+	public int rtn() {
+		System.out.println(a);
+		return 0;
+	}
+	
+	public static Data1 testt (int a) {
+		Data1 d = new Data1();
+		class a { int y = 1;
+			
+		}
+		d.x = a;
+		return a;
+	}
+	
+}

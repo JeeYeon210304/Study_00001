@@ -1,0 +1,21 @@
+package test;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class WhatIs {
+
+	public static void main(String[] args) {
+		wrote();
+	}
+	
+	static void wrote() {
+		List<String> arr0 = new ArrayList<String>();
+		List<String> arr1;
+		
+		String a;
+		System.out.println(a);
+		System.out.println(arr1);
+	}
+}
+

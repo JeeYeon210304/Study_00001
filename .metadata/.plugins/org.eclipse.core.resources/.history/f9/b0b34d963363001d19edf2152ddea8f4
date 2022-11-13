@@ -1,0 +1,39 @@
+package test;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class WhatIs {
+
+	public static void main(String[] args) {
+//		wrote();
+//		
+//		WhatIs whatIs = new WhatIs();
+//		whatIs.test1();
+		
+		Aaa aaa = new Aaa();
+		
+		List<Integer> intLst = new ArrayList<Integer>();
+		List<String> strLst1 = new ArrayList<String>();
+		List<String> strLst2 = new ArrayList<String>();
+		
+		
+		Wrote inst = new Use();
+		
+	}
+	
+
+	
+	void test1() {
+		int a;
+		
+	}
+}
+
+class Wrote {
+	int a;
+}
+class Use {
+	int a;
+}
+
