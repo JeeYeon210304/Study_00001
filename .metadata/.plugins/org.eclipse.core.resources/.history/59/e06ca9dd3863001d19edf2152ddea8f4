@@ -11,7 +11,7 @@ public class WhatIs {
 //		WhatIs whatIs = new WhatIs();
 //		whatIs.test1();
 
-		Aaa a, b;
+		Aaa aaa, bbb;
 		
 		Aaa aaa = new Aaa();
 		Aaa bbb = new Aaa();
